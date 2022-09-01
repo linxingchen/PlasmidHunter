@@ -1,1 +1,1 @@
-# PlasmidFinder
+# PlasmidHunter
