@@ -1,4 +1,4 @@
-# PlasmidHunter
+# PlasmidHunter: Accurate and Fast Plasmid Prediction Based on Gene Content Using Machine Learning 
 # Dependencies
 scikit-learn == 1.0.2
 pandas
