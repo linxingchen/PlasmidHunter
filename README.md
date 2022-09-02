@@ -4,13 +4,13 @@ We have built a Google Colab Notebook runtime and you can upload your input fast
 Go to https://colab.research.google.com/github/tianrenmaogithub/PlasmidHunter/blob/main/PlasmidHunter.ipynb
 or click the PlasmidHunter.ipynb and then click the Colab icon to run it.
 # Run PlasmidHunter locally
-Dependencies:
+Dependencies:\n
 scikit-learn == 1.0.2
 pandas
 numpy
 biopython
 diamond
 prodigal
-Installation and run:
+Installation and run:\n
 Please install the dependencies then download the source code file PlasmidHunter_x.x.zip and unzip it. Run python PlasmidHunter_x.x/bin/PlasmidHunter.py -h for the help message.
 
