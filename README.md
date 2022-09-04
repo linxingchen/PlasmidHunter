@@ -1,5 +1,6 @@
 <p>
 <img src='logo.png' width=150>
+presented by Institute of Food Safety and Health, Illinois Institute of Technology
 </p>
 
 # PlasmidHunter: Accurate and Fast Plasmid Prediction Based on Gene Content Using Machine Learning 
