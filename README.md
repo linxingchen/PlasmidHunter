@@ -1,4 +1,5 @@
-<img src='https://github.com/tianrenmaogithub/PlasmidHunter/blob/main/logo.png?raw=true'>
+![Screenshot](logo.png)
+
 # PlasmidHunter: Accurate and Fast Plasmid Prediction Based on Gene Content Using Machine Learning 
 ## Run PlasmidHunter online
 We have built a Google Colab Notebook runtime and you can upload your input fasta file(s) to run it online.
