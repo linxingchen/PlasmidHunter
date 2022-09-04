@@ -1,5 +1,5 @@
 <p>
-<img src='logo.png' width=20>
+<img src='logo.png' width=100>
 </p>
 
 # PlasmidHunter: Accurate and Fast Plasmid Prediction Based on Gene Content Using Machine Learning 
