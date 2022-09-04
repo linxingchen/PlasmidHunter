@@ -1,5 +1,5 @@
-<p>
 <img src='logo.png' width=150>
+<p>
 presented by Institute of Food Safety and Health, Illinois Institute of Technology
 </p>
 
