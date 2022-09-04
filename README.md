@@ -1,4 +1,6 @@
-![Screenshot](logo.png)
+<p>
+<img src='logo.png' width=20>
+</p>
 
 # PlasmidHunter: Accurate and Fast Plasmid Prediction Based on Gene Content Using Machine Learning 
 ## Run PlasmidHunter online
