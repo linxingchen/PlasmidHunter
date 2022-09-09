@@ -18,4 +18,5 @@ diamond
 prodigal
 ### Installation and run
 Please install the dependencies then download the source code file PlasmidHunter_x.x.zip and unzip it. Run python PlasmidHunter_x.x/bin/PlasmidHunter.py -h for the help message.
-
+# Contact
+If you have any questions, please contact Renmao Tian (tianrenmao[at]gmail.com) or Behzad Imanian (bimanian[at]iit.edu).
