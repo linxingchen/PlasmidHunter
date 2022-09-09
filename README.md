@@ -1,4 +1,4 @@
-<img src='logo1.png' width=150>
+<img src='logo2.png' width=150>
 <p>
 presented by Institute of Food Safety and Health, Illinois Institute of Technology
 </p>
