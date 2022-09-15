@@ -12,10 +12,10 @@ or click the PlasmidHunter.ipynb in the repository and then click the Colab icon
 ### Dependencies
 scikit-learn == 1.0.2<br>
 pandas >= 1.4.3<br>
-numpy >= 1.23.1
-biopython >= 1.79
-diamond >= 2.0.15.153
-prodigal >= 2.6.3
+numpy >= 1.23.1<br>
+biopython >= 1.79<br>
+diamond >= 2.0.15.153<br>
+prodigal >= 2.6.3<br>
 ### Installation and run
 Please install the dependencies then download the source code file PlasmidHunter_x.x.zip and unzip it. Run python PlasmidHunter_x.x/bin/PlasmidHunter.py -h for the help message.
 ## Contact
