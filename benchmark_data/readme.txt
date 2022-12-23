@@ -1,0 +1,1 @@
+These are benchmark data used to compare different plasmid predictors in the paper. They are simulated contigs with different lengths from the genomes held back from the modelling.
